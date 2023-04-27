@@ -1,9 +1,14 @@
-<p>This set of scripts had successfully evolutioned into [SkyForge](https://github.com/LuigiVampa92/SkyForge) - an Intellij Idea / Android Studio IDE plugin, that does all this work through GUI. The plugin can be installed at Android Studio <kbd>Settings</kbd> -> <kbd>Plugins</kbd> -> type <kbd>SkyForge</kbd> into search bar and hit "Install" button. The source code is available at the link above.</p>
+
+<h3>This set of scripts had successfully evolutioned into <a href="https://github.com/LuigiVampa92/SkyForge">SkyForge</a> - an Intellij Idea / Android Studio IDE plugin, that does everything this repo intended to do, but with much better UX, and through GUI approach. The plugin can be installed at Android Studio <kbd>Settings</kbd> -> <kbd>Plugins</kbd> -> type <kbd>SkyForge</kbd> into search bar and hit "Install" button. The source code and all the configuration and usage instructions are available at the link above.</h3>
+
+
+# Therefore this repository had been deprecated and no longer used. Please use [SkyForge](https://github.com/LuigiVampa92/SkyForge) instead.
+
 <br/>
-<b>Therefore this repository had been archived</b>
 <br/>
 <br/>
-<hr>
+<br/>
+<br/>
 <br/>
 <br/>
 
