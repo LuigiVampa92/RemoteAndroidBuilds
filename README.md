@@ -1,3 +1,12 @@
+<p>This set of scripts had successfully evolutioned into [SkyForge](https://github.com/LuigiVampa92/SkyForge) - an Intellij Idea / Android Studio IDE plugin, that does all this work through GUI. The plugin can be installed at Android Studio <kbd>Settings</kbd> -> <kbd>Plugins</kbd> -> type <kbd>SkyForge</kbd> into search bar and hit "Install" button. The source code is available at the link above.</p>
+<br/>
+<b>Therefore this repository had been archived</b>
+<br/>
+<br/>
+<hr>
+<br/>
+<br/>
+
 # RemoteAndroidBuilds
 A set of scripts that will help you move building process of your heavy android projects in Android Studio from a local computer to a remote server
 
